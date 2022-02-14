@@ -11,7 +11,9 @@ image_metadata:
   image-alt: 'Two women sit together at a table talking to each other. One woman is
     taking notes with a pen and notebook. The other woman sits in front of an open
     laptop.  '
+learning_resource_types: []
 resourcetype: Image
 title: RES-EC002-th.jpg
+type: OCWImage
 uid: d2860f97-af28-34be-ee36-4e64b000a2e2
 ---
