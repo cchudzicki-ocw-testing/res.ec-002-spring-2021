@@ -14,6 +14,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: RES-EC002-th.jpg
-type: OCWImage
 uid: d2860f97-af28-34be-ee36-4e64b000a2e2
 ---
