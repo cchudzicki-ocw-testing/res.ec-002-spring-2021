@@ -12,6 +12,7 @@ image_metadata:
     taking notes with a pen and notebook. The other woman sits in front of an open
     laptop.  '
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: RES-EC002-th.jpg
 uid: d2860f97-af28-34be-ee36-4e64b000a2e2
